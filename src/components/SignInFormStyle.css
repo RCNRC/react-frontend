@@ -1,0 +1,10 @@
+.sign_in_form{
+    display: block;
+    position: fixed;
+    top: 40%;
+    left: 40%;
+    visibility: hidden;
+    border-style: groove;
+    border-color: #222222;
+    background-color: antiquewhite;
+}

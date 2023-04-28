@@ -1,0 +1,9 @@
+.save_plan_form{
+    display: block;
+    position: fixed;
+    width: 14%;
+    visibility: visible;
+    border-style: groove;
+    border-color: #222222;
+    background-color: antiquewhite;
+}

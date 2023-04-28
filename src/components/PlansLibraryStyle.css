@@ -1,0 +1,13 @@
+.plans_library{
+    visibility: hidden;
+    position: fixed;
+    left: 15%;
+    top: 10%;
+    width: 45%;
+    height: 90%;
+    display: block;
+    overflow: scroll;
+    border-style: groove;
+    border-color: #222222;
+    background-color: antiquewhite;
+}
